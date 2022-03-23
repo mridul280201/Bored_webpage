@@ -1,0 +1,34 @@
+.Headings{
+    align-items: center;
+    padding: 10px 43%;
+    color: crimson;
+}
+#button_img{
+    width: 450px;
+}
+#Headings2{
+    align-items: center;
+    margin-left: 450px;
+    color: crimson;
+}   
+.bored_button{
+    
+    background-color: crimson;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    cursor: pointer;
+    font-size: 60px;
+    padding-left: 10px 43px;
+    margin-left: 520px;
+    box-shadow: 0 8px #999;
+}
+
+.bored_button:hover{
+    background-color: red;
+}
+.bored_button:active{
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
